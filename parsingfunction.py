@@ -1,4 +1,4 @@
-items=["Aman","Aryan","Justin",656,963.5,"Another",565]
+items=["Aman",1,2,3]
 list_str=[]
 list_int=[]
 
